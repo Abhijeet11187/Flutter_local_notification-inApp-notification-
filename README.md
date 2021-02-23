@@ -1,6 +1,6 @@
 # flutter_local_notification
 
-A new Flutter project.
+Flutter version 1.22.4
 
 ## Getting Started
 
